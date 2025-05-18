@@ -13,7 +13,7 @@ function App() {
   const [isTable, setIsTable] = useState(false);
 
   useEffect(() => {
-    fetch('/sigwise.csv')
+    fetch('/my.csv')
       .then((response) => response.text())
       .then((csvText) => {
         loadCsvData(csvText);
