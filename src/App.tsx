@@ -55,10 +55,10 @@ function App() {
           <img src="./logo.svg" className="w-12 h-16 sm:w-18 sm:h-20" alt="" />
           <div className="flex flex-col pl-1 sm:pl-2">
             <div className="flex font-semibold text-lg sm:text-[24px] text-[#00000099] mt-0 sm:mt-1">
-              Segwise
+              CSVInsight
             </div>
             <div className="flex font-normal text-base sm:text-[22px] text-[#00000099] -mt-0 sm:-mt-1">
-              Front End Test
+              Data Visualization
             </div>
           </div>
         </div>
